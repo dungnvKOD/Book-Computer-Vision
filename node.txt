@@ -1,0 +1,13 @@
+t? t?o file
+git clone duong dan
+
+d?y lên
+git add .
+ 
+commit
+git commit -m "book"
+
+d?y
+git push
+
+exit
